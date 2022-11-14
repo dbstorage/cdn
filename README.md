@@ -1,11 +1,11 @@
-<h2>Javascript & CSS CDN Dataset</h2>
+<h2>Public CDN Dataset</h2>
 
 ### How To Use:
 ```bash
-[+] CDN Url : https://cdn.jsdelivr.net/gh/dbstorage/jscdn/(FILE Name).(Extension)
+[+] CDN Url : https://cdn.jsdelivr.net/gh/dbstorage/cdn/(FILE Name).(Extension)
 
 [+] Example Usage :
-<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/dbstorage/jscdn/jquery.min.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/dbstorage/cdn/js/jquery.min.js"></script>
 
 ```
 ### Disclaimer
