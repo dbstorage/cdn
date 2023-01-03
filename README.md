@@ -11,4 +11,4 @@
 ### Disclaimer
 -----
 We do not own the code we upload, if one of them are supposed to be private or you dont want us to share it, feel free to create New Issue and let us delete it.
-You can also request a file code to be placed on our repository by open a New Issue.
+You can also request a file code to be placed on our repository by open a New Issue or email us at : dbstorage@gmail.com
